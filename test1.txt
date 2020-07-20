@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 86EF-A20E
+
+ Directory of C:\Users\nitheesh.chandran\Desktop\MyProject
+
+07/20/2020  11:56 AM    <DIR>          .
+07/20/2020  11:56 AM    <DIR>          ..
+07/20/2020  11:56 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  28,923,236,352 bytes free
